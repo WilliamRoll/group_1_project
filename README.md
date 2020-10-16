@@ -1,2 +1,3 @@
 # group_1_project
-* Main Objectives
+* Main Objectives: 
+* Loading and cleaning up the files.
