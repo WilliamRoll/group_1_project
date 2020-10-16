@@ -1,0 +1,28 @@
+Red Sox - Project 1
+
+Project Title:
+Baseball Player Correlation
+
+Team Members:
+Bill
+Delia
+Jessy
+Joe
+Sherin
+
+Project Description / Outline:
+Using the datasets available, we are going to draw conclusions based on the following questions below.
+ 
+Dataset Date Range: 1995 - Current 
+
+Research Questions to Answer:
+	1. What is the correlation between player salary and player performance?
+	2. What is the correlation between player batting avg and age?
+	3. What is the correlation of different player positions and player salary?
+	4. Summary stats for each team. Total team salary. 
+
+
+Datasets to Be Used:
+https://www.kaggle.com/open-source-sports/baseball-databank?select=Master.csv
+
+Rough Breakdown of Tasks:
