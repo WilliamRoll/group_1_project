@@ -1,4 +1,4 @@
 # group_1_project
-* Main Objectives: 
-* Loading and cleaning up the files.
+* Main Objective of this branch : Loading and cleaning up the files.
+* Proposal : Refer to Outline text file
 
